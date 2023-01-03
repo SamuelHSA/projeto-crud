@@ -1,7 +1,3 @@
-import { conectarMongoDB } from '../services/conectarMongoDB';
-import usuarioModel from '../models/usuarioModel';
-
-
 const express = require('express');
 const server = express();
 
